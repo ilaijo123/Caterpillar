@@ -76,7 +76,6 @@ DerivedDataCache/*
 
 # Editor content
 Content/StarterContent/*
-Content/ThirdPerson/*
 Content/Mannequin/*
 Client.bat
 Server.bat
